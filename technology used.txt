@@ -1,0 +1,4 @@
+Spring Boot 2.0.1
+Hibernate 5
+Angular 8
+Mysql 5
